@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a CS student at Technical Unversity of Košice.
+- 📚 I’m currently learning frontend web development using React, Vue. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marek-kundla-a7a675122/) [Gmail](mailto:Marek.Kundla@gmail.com)
+
+
 <!--
 **MarekKundla/MarekKundla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
